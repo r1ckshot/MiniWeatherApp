@@ -1,6 +1,6 @@
 # ☁️ MiniWeatherApp
 
-**A lightweight weather application built with Go and optimized for Docker.**
+**A lightweight weather application built with Go and optimized for Docker.** This project demonstrates Docker containerization with multi-stage builds and image optimization.
 > **Note:** Interface is in Polish.
 
 <table>
@@ -25,8 +25,6 @@
 - **Compression:** UPX (Ultimate Packer for eXecutables)
 
 ## 🎯 Docker Optimization
-
-This project showcases advanced Docker optimization techniques:
 
 - **Multi-stage build** - Separate build and runtime stages
 - **Static compilation** - Go binary compiled with all dependencies
